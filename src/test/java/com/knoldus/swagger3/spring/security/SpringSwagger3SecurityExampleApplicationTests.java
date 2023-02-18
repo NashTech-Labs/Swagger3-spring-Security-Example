@@ -1,4 +1,4 @@
-package com.knoldus.springswagger3securityexample;
+package com.knoldus.swagger3.spring.security;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

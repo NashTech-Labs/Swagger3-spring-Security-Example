@@ -1,4 +1,4 @@
-package com.knoldus.springswagger3securityexample;
+package com.knoldus.swagger3.spring.security;
 
 import io.swagger.v3.oas.annotations.OpenAPIDefinition;
 import io.swagger.v3.oas.annotations.enums.SecuritySchemeIn;

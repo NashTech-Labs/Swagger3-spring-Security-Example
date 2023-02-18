@@ -1,4 +1,4 @@
-package com.knoldus.springswagger3securityexample.model;
+package com.knoldus.swagger3.spring.security.model;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotEquals;

@@ -1,7 +1,7 @@
-package com.knoldus.springswagger3securityexample.controller;
+package com.knoldus.swagger3.spring.security.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.knoldus.springswagger3securityexample.model.Employee;
+import com.knoldus.swagger3.spring.security.model.Employee;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,7 +1,7 @@
-package com.knoldus.springswagger3securityexample.controller;
+package com.knoldus.swagger3.spring.security.controller;
 
 
-import com.knoldus.springswagger3securityexample.model.Employee;
+import com.knoldus.swagger3.spring.security.model.Employee;
 import io.swagger.v3.oas.annotations.security.SecurityRequirement;
 import java.util.ArrayList;
 import java.util.List;
@@ -16,8 +16,8 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * REST Controller Class for fulfilling Security Requirements.
  *
- *  * @author shashikant
- *  * @version OepnJdk 1.8
+ *  * @author shashikant tanti
+ *  * @version OpenJdk 1.8
  */
     @RestController
     @SecurityRequirement(name = "shashijava")

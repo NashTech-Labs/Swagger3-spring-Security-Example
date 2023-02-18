@@ -1,10 +1,10 @@
-package com.knoldus.springswagger3securityexample.model;
+package com.knoldus.swagger3.spring.security.model;
 /***
  * Created model class to set and get values.
  * for Authorization in spring security.
  *
- * @author shashikant
- * @version OepnJdk 1.8
+ * @author shashikant tanti
+ * @version OpenJdk 1.8
  */
     public class Employee {
 
@@ -25,11 +25,11 @@ package com.knoldus.springswagger3securityexample.model;
      */
         private double salary;
 
-        // constructor created
+        // constructor
         public Employee() {
         }
 
-        // Getter-Setter
+        // Getter & Setter
     /**
      *
      * @return employee's name

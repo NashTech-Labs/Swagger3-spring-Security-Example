@@ -1,4 +1,4 @@
-package com.knoldus.springswagger3securityexample.config;
+package com.knoldus.swagger3.spring.security.config;
 
 
 import org.springframework.context.annotation.Bean;
@@ -13,8 +13,8 @@ import org.springframework.security.crypto.password.PasswordEncoder;
  * configured a public class SecurityConfiguration
  * for Authorization in spring security.
  *
- * @author shashikant
- * @version OepnJdk 1.8
+ * @author shashikant tanti
+ * @version OpenJdk 1.8
  */
     @EnableWebSecurity
     public class SecurityConfiguration extends WebSecurityConfigurerAdapter {

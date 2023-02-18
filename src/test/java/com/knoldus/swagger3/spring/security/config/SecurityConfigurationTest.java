@@ -1,9 +1,6 @@
-package com.knoldus.springswagger3securityexample.config;
+package com.knoldus.swagger3.spring.security.config;
 
-import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
-import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;
-import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 
 class SecurityConfigurationTest {
 
